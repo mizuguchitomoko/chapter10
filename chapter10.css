@@ -63,9 +63,9 @@ footer {
   .step-box{
     margin:0 auto;
     width: 90%;
+    padding:0 auto;
   }
-  }
-  .step-box2 {
+  .step-box2{
     margin-top: 20px;
     margin-bottom: 20px;
   }
